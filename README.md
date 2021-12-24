@@ -1,1 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ma1de&theme=radical)
+# java dev
+tools im using: intellij, maven, (sometimes) gradle. <br/>
+kinda experienced with bukkit api stuff but im shit with the anticheats lol. <br/>
+also im eperienced with [java discord api](https://github.com/DV8FromTheWorld/JDA).<br/> 
+i like mongodb, a lot. <br/>
