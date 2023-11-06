@@ -8,7 +8,7 @@ I speak Russian and English and I've been learning English since I was 9 years o
   <img src="https://github.com/ma1de/ma1de/blob/main/rounded%20thing%20idk.png" alt="Experiences">
 </p>
 <br>
-Addition: mongodb, guava, commons-lang3, packetevents, ProtocolLib
+Addition: mongodb, guava, packetevents, ProtocolLib
 
 # Name & Pronouns
 Ilya (Илья)<br>
